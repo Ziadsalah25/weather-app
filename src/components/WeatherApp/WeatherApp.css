@@ -57,7 +57,7 @@
     
 }
 .data-container{
-    margin-top: 50px;
+    margin-top: 1px;
     color: white;
     display: flex;
     justify-content: center;
@@ -65,12 +65,11 @@
 }
 .element{
     margin: auto;
-    display: flex;
+    display: flex; 
     align-items: flex-start;
-    gap: 12px;
-    padding-left: 26vh;
-    
-    
+    gap: 12px; 
+    padding-left: 7vh;
+     
 }
 .data{
     font-size: 34px;
